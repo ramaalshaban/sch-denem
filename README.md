@@ -1,1 +1,1 @@
-# sch-denem
+# scheduled-script
